@@ -1,2 +1,3 @@
-# prime-news-aggregator-xpbk
-Automated issue comment bot repository
+# Prime News Aggregator Xpbk
+
+Automated issue comment bot repository.
